@@ -49,7 +49,8 @@ You’re doing this exactly the right way — just one click at a time 💪
 
 ## Evidence
 - Baseline output file created: `Documents\Day01\day01-baseline.txt`
-- Screenshots captured:
+- Screenshots captured:<img width="768" height="577" alt="system-about1" src="https://github.com/user-attachments/assets/1f130bbf-69b3-4e7f-970f-7d860f261fb6" />
+
   - Task Manager Performance
   - System About
 

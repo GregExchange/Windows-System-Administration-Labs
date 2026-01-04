@@ -1,11 +1,4 @@
 # Day 04 – Windows Firewall & Security
-Day04/
- ├─ README.md
- ├─ day04-firewall.txt
- ├─ firewall-profiles.png
- ├─ defender-status.png
- └─ ping-test.png
-
 ## Objective
 Inspect and validate Windows Defender Firewall and security status on a Windows 11 VM.
 

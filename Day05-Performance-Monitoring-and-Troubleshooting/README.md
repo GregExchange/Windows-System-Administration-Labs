@@ -44,4 +44,8 @@ perfmon
 2. Open **Resource Monitor**
  ```cmd
  resmon
+## Evidence
+- Collected CPU, memory, and disk performance metrics
+- Used Task Manager, Resource Monitor, and PowerShell counters
+- Documented findings and system behavior
 perfmon

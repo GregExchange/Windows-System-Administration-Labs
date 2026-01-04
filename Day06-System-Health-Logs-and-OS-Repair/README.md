@@ -48,3 +48,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
  ```cmd
  sfc /scannow
 DISM /Online /Cleanup-Image /RestoreHealth
+## Evidence
+- Ran SFC and DISM to verify OS integrity
+- Analyzed critical system logs using Event Viewer
+- Exported system event logs for troubleshooting

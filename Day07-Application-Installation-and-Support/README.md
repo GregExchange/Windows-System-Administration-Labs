@@ -42,3 +42,30 @@
 - Event Viewer assists in identifying application-level errors
 - Standardized troubleshooting reduces downtime
 Add Day 07 application installation and support lab
+# Day 07 – Application Installation & Support
+
+## Objective
+Install, verify, and support Windows applications in an enterprise-style environment.
+
+## Applications Installed
+- Google Chrome
+- 7-Zip
+
+## Verification
+- Confirmed installation via registry query
+- Verified application launch and usability
+
+## Troubleshooting Scenario
+- Simulated application issue
+- Resolved by terminating and restarting process via Task Manager
+
+## Evidence
+- Application installation screenshots
+- PowerShell verification output
+- Task Manager troubleshooting screenshot
+
+## Skills Demonstrated
+- Application deployment
+- End-user support
+- Troubleshooting
+- Documentation
